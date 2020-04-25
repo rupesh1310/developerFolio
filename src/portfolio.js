@@ -153,6 +153,18 @@ const achievementSection = {
                { name: "Final Project", url: "https://github.com/rupesh1310/lterm" }
       ]
     },
+
+    {
+      title: "Completed Android P with Machine learning",
+      description: "Completed Android P with Machine learning from learncodeonline inc.",
+      image: "https://raw.githubusercontent.com/rupesh1310/Android/master/images/android-svgrepo-com.svg?token=AHJGSMTZHOSPEMJYEIEIXA26VTFVY",
+      footerLink: [ { 
+        name: "Android P with Machine learning", url: "https://drive.google.com/open?id=1M3l8ozzvttqF42FWGOutuusYkSR0K8-o" 
+        },
+        { name: "Final Projects", url: "https://github.com/rupesh1310/Android" }
+      ]
+    },
+
     {
       title: "Completed Full Stack MERN Bootcamp",
       description: "Completed Full Stack MERN Bootcamp from learncodeonline inc.",
